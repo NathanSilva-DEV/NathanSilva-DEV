@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Nathan de Deus  
 
-<!--
-**NathanSilva-DEV/NathanSilva-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação | Apaixonado por tecnologia e aprendizado contínuo  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim  
+Sou estudante dedicado de **lógica de programação**, **Python**, e **banco de dados (SQL)**.  
+Atualmente estou construindo meus primeiros projetos e aprendendo boas práticas de código.  
+
+🎯 **Objetivo:** evoluir como desenvolvedor e construir uma base sólida em programação e análise de dados.  
+
+---
+
+## 🧠 Tecnologias que estou aprendendo  
+- 🐍 **Python** — lógica de programação e pequenos projetos  
+- 🗃️ **SQL** — manipulação e análise de dados  
+- 🧩 **Git e GitHub** — controle de versão e colaboração  
+
+---
+
+## 📈 Projetos em destaque  
+Ainda estou construindo meu portfólio, mas em breve você encontrará aqui projetos desenvolvidos em Python e SQL, mostrando minha evolução como desenvolvedor.
+
+---
+
+## 📫 Como me encontrar  
+- 💼 www.linkedin.com/in/nathan-de-deus-73597a274
+- ✉️ **nathandedeus737@gmail.com** 
+
